@@ -7,7 +7,7 @@
 
 **NRC: 10063** 
 
-**Fecha: /2023**
+**Fecha: 17/01/2023**
 
 ># 1. OBJETIVOS 
 **OBJETIVO GENERAL**
@@ -316,6 +316,7 @@
 ![image](https://user-images.githubusercontent.com/105020538/212247762-ce481088-6b90-4302-a0fc-0988a650b5d8.png)
 
 ># 4. VIDEO
+
 
 ># 5. CONCLUSIONES
 - En la vida cotidiana e uso de la energía eléctrica es cada día más indispensable, siendo una de las razones su forma limpia, en comparación con otras formas de energía. 
